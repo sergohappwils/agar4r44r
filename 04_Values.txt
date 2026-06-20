@@ -1,0 +1,9 @@
+VALUES (5)
+Game: Trade_Agaricio
+=========================================
+
+[StringValue] BoundKeys = LeftShift,RightShift
+[IntValue] Mass = 0
+[StringValue] InsertionHash = {C90888A3-DD6E-4C21-A097-88773226BA7F}
+[StringValue] DeathType = Classic
+[StringValue] LeaderstatsOrder = {"Mass":0}

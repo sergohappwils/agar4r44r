@@ -1,0 +1,2364 @@
+{
+  "remotes": [
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerGui.AgaricGameplayPositionQuery",
+      "name": "AgaricGameplayPositionQuery",
+      "className": "BindableFunction"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.SetDialogInUse",
+      "name": "SetDialogInUse",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.IntegrityCheckProcessorKey2_DynamicTranslationSender_LocalizationService",
+      "name": "IntegrityCheckProcessorKey2_DynamicTranslationSender_LocalizationService",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.UpdatePlayerBlockList",
+      "name": "UpdatePlayerBlockList",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.ServerSideBulkPurchaseEvent",
+      "name": "ServerSideBulkPurchaseEvent",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.SetUserActive",
+      "name": "SetUserActive",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.UpdateCurrentCall",
+      "name": "UpdateCurrentCall",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.IntegrityCheckProcessorKey2_TextSafetyAnalyticsSender_LocalizationService",
+      "name": "IntegrityCheckProcessorKey2_TextSafetyAnalyticsSender_LocalizationService",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.ContactListIrisInviteTeleport",
+      "name": "ContactListIrisInviteTeleport",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.ContactListInvokeIrisInvite",
+      "name": "ContactListInvokeIrisInvite",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService",
+      "name": "IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.ShowPlayerJoinedFriendsToast",
+      "name": "ShowPlayerJoinedFriendsToast",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.GetServerVersion",
+      "name": "GetServerVersion",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.BuildExperiencePlaytestTeleport",
+      "name": "BuildExperiencePlaytestTeleport",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.GetServerChannel",
+      "name": "GetServerChannel",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.UpdateLocalPlayerBlockList",
+      "name": "UpdateLocalPlayerBlockList",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.CreateOrJoinParty",
+      "name": "CreateOrJoinParty",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.RequestDeviceCameraOrientationCapability",
+      "name": "RequestDeviceCameraOrientationCapability",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.RequestPlayerProfileSettings",
+      "name": "RequestPlayerProfileSettings",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.SendPlayerBlockList",
+      "name": "SendPlayerBlockList",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.NewPlayerGroupDetails",
+      "name": "NewPlayerGroupDetails",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.SetPlayerBlockList",
+      "name": "SetPlayerBlockList",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.SendPlayerProfileSettings",
+      "name": "SendPlayerProfileSettings",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.ExpChatFeatureValueChanged",
+      "name": "ExpChatFeatureValueChanged",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.ExperienceChat.WhisperChat",
+      "name": "WhisperChat",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.CanChatWith",
+      "name": "CanChatWith",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.ModerateChatSettingUpdated",
+      "name": "ModerateChatSettingUpdated",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.NewPlayerCanManageDetails",
+      "name": "NewPlayerCanManageDetails",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.ReferredPlayerJoin",
+      "name": "ReferredPlayerJoin",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.UpdatePlayerProfileSettings",
+      "name": "UpdatePlayerProfileSettings",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.ShowFriendJoinedPlayerToast",
+      "name": "ShowFriendJoinedPlayerToast",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.RobloxReplicatedStorage.GetServerType",
+      "name": "GetServerType",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AgeSafeChatRemote",
+      "name": "AgeSafeChatRemote",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.AdminProfileChanged",
+      "name": "AdminProfileChanged",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.FetchPlayerProfile",
+      "name": "FetchPlayerProfile",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.FetchTradeHistory",
+      "name": "FetchTradeHistory",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.AdminBotPackAction",
+      "name": "AdminBotPackAction",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.UpdateState",
+      "name": "UpdateState",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.PerformAction",
+      "name": "PerformAction",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.DeletePlayerData",
+      "name": "DeletePlayerData",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.FetchPlayerItems",
+      "name": "FetchPlayerItems",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.CreatePlayerData",
+      "name": "CreatePlayerData",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.AdminCustomModeAction",
+      "name": "AdminCustomModeAction",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.FetchCustomModes",
+      "name": "FetchCustomModes",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.EditPlayerData",
+      "name": "EditPlayerData",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.UpdateExplorer",
+      "name": "UpdateExplorer",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AdminRemotes.AdminItemAction",
+      "name": "AdminItemAction",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Remotes.LikeLimited_GetState",
+      "name": "LikeLimited_GetState",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Remotes.LikeLimited_Claim",
+      "name": "LikeLimited_Claim",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.TradeNetwork.Update",
+      "name": "Update",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.TradeNetwork.Action",
+      "name": "Action",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.PlayerStateNetwork.StateDelta",
+      "name": "StateDelta",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.PlayerStateNetwork.GetSnapshot",
+      "name": "GetSnapshot",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.Network.MusicPresence",
+      "name": "MusicPresence",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.Network.MusicPreferences",
+      "name": "MusicPreferences",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.Network.BuyItemEvent",
+      "name": "BuyItemEvent",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.Network.MusicPreferenceAdminUpdate",
+      "name": "MusicPreferenceAdminUpdate",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.FriendInviteRemote",
+      "name": "FriendInviteRemote",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.PromptEvents.Response",
+      "name": "Response",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.PromptEvents.Request",
+      "name": "Request",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AgaricNetwork.WorldState",
+      "name": "WorldState",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AgaricNetwork.UpdateTarget",
+      "name": "UpdateTarget",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AgaricNetwork.UpdateNickname",
+      "name": "UpdateNickname",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AgaricNetwork.Split",
+      "name": "Split",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AgaricNetwork.Eject",
+      "name": "Eject",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AgaricNetwork.SpectatePlayer",
+      "name": "SpectatePlayer",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.AgaricNetwork.SpawnPlayer",
+      "name": "SpawnPlayer",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Signals.PublicHiscoresAdminAPI",
+      "name": "PublicHiscoresAdminAPI",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Signals.LeaderboardAdminAPI",
+      "name": "LeaderboardAdminAPI",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Signals.TotalServiceAdminSet",
+      "name": "TotalServiceAdminSet",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.RespondGameFriendRequest",
+      "name": "RespondGameFriendRequest",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.GetPublicHiscores",
+      "name": "GetPublicHiscores",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.AntiCheat_Report",
+      "name": "AntiCheat_Report",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.ActivateBotPack",
+      "name": "ActivateBotPack",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.StopBotPack",
+      "name": "StopBotPack",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.GetFriendPresence",
+      "name": "GetFriendPresence",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.Input_Target",
+      "name": "Input_Target",
+      "className": "UnreliableRemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.UpdateCustomMode",
+      "name": "UpdateCustomMode",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.CreateCustomMode",
+      "name": "CreateCustomMode",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.World_Move",
+      "name": "World_Move",
+      "className": "UnreliableRemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.World_Event",
+      "name": "World_Event",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.SendGameFriendRequest",
+      "name": "SendGameFriendRequest",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.SpectatePlayer",
+      "name": "SpectatePlayer",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.BuyItemEvent",
+      "name": "BuyItemEvent",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.RequestJoinCustomMode",
+      "name": "RequestJoinCustomMode",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.SendModeInvite",
+      "name": "SendModeInvite",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.GetOfficialModes",
+      "name": "GetOfficialModes",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.UpdateNicknameEvent",
+      "name": "UpdateNicknameEvent",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.UpdateColorEvent",
+      "name": "UpdateColorEvent",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.AntiCheat_Challenge",
+      "name": "AntiCheat_Challenge",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.UpdateNickname",
+      "name": "UpdateNickname",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.RequestJoinFriend",
+      "name": "RequestJoinFriend",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.World_Init",
+      "name": "World_Init",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.RestartCustomMode",
+      "name": "RestartCustomMode",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.ToggleRandomColorEvent",
+      "name": "ToggleRandomColorEvent",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.SetSpawnNearFriend",
+      "name": "SetSpawnNearFriend",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.DeleteCustomMode",
+      "name": "DeleteCustomMode",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.GetCustomModeServers",
+      "name": "GetCustomModeServers",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.SpawnPlayer",
+      "name": "SpawnPlayer",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.BuyBotPack",
+      "name": "BuyBotPack",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.RequestJoinMode",
+      "name": "RequestJoinMode",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.Input_Place",
+      "name": "Input_Place",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.PublicHiscoresUpdated",
+      "name": "PublicHiscoresUpdated",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.MinimapSnapshot",
+      "name": "MinimapSnapshot",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.GetModeServers",
+      "name": "GetModeServers",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.World_Delta",
+      "name": "World_Delta",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.ModeTeleportResult",
+      "name": "ModeTeleportResult",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.Input_Action",
+      "name": "Input_Action",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.EquipItemEvent",
+      "name": "EquipItemEvent",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.Match_State",
+      "name": "Match_State",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.CustomModeResult",
+      "name": "CustomModeResult",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.UpdateControlSettings",
+      "name": "UpdateControlSettings",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.OpenCaseFunction",
+      "name": "OpenCaseFunction",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.GetCustomModes",
+      "name": "GetCustomModes",
+      "className": "RemoteFunction"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.AntiCheat_Response",
+      "name": "AntiCheat_Response",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Network.ReorderAbilitiesEvent",
+      "name": "ReorderAbilitiesEvent",
+      "className": "RemoteEvent"
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.GlobalChatTipsRemote",
+      "name": "GlobalChatTipsRemote",
+      "className": "RemoteEvent"
+    }
+  ],
+  "game": {
+    "placeId": 139160315848670,
+    "name": "Trade_Agaricio",
+    "dumpTime": 1781960652
+  },
+  "values": [
+    {
+      "value": "LeftShift,RightShift",
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.MouseLockController.BoundKeys",
+      "name": "BoundKeys",
+      "className": "StringValue"
+    },
+    {
+      "value": "0",
+      "rblxPath": "game.Players.9px9m20.leaderstats.Mass",
+      "name": "Mass",
+      "className": "IntValue"
+    },
+    {
+      "value": "{C90888A3-DD6E-4C21-A097-88773226BA7F}",
+      "rblxPath": "game.InsertService.InsertionHash",
+      "name": "InsertionHash",
+      "className": "StringValue"
+    },
+    {
+      "value": "Classic",
+      "rblxPath": "game.RobloxReplicatedStorage.DeathType",
+      "name": "DeathType",
+      "className": "StringValue"
+    },
+    {
+      "value": "{\"Mass\":0}",
+      "rblxPath": "game.RobloxReplicatedStorage.LeaderstatsOrder",
+      "name": "LeaderstatsOrder",
+      "className": "StringValue"
+    }
+  ],
+  "scripts": [
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.LimitedLocal",
+      "name": "LimitedLocal",
+      "className": "LocalScript",
+      "hash": "016528e337367b66a1daaf79e08e718b18e4311d3d0fdbfc2d48d6691029b943",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/LimitedLocal.luau",
+      "size": 36767
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule",
+      "name": "PlayerModule",
+      "className": "ModuleScript",
+      "hash": "675ef998593ee90bb71dc56284d6ada0ccfc88e6f160dd7b23b2535f44c12d4b",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule.luau",
+      "size": 599
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule",
+      "name": "ControlModule",
+      "className": "ModuleScript",
+      "hash": "2b3598a4fa12f51ee63bc540b8bb58ed9c558798cd2809cd5390b2090726dfc3",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule.luau",
+      "size": 21672
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.TouchJump",
+      "name": "TouchJump",
+      "className": "ModuleScript",
+      "hash": "17327b2788e45e2644c2a0c2081a7216e83e6ad573a9c82f3f1dd8a1488b2c51",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/TouchJump.luau",
+      "size": 8134
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.PathDisplay",
+      "name": "PathDisplay",
+      "className": "ModuleScript",
+      "hash": "6b19fecd9b9127e9f80380900cadf6d06f3c5cad10e06bb58e332630d6755ab7",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/PathDisplay.luau",
+      "size": 3667
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.AvatarAbilitiesInterface",
+      "name": "AvatarAbilitiesInterface",
+      "className": "ModuleScript",
+      "hash": "b060fc77070f31547b75acc399cf6469d0921ac08388947def4e1d6fed614d1e",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/AvatarAbilitiesInterface.luau",
+      "size": 2433
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.VehicleController",
+      "name": "VehicleController",
+      "className": "ModuleScript",
+      "hash": "e9b30e6837d0d2b4fc352f364323b422e4d0e23c4a36e599f1fb21dfa280fba7",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/VehicleController.luau",
+      "size": 4940
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.Gamepad",
+      "name": "Gamepad",
+      "className": "ModuleScript",
+      "hash": "ef0c646612170563898e737cf74b1e10105bb84fb32189a519a0124dfdd81276",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/Gamepad.luau",
+      "size": 6190
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.BaseCharacterController",
+      "name": "BaseCharacterController",
+      "className": "ModuleScript",
+      "hash": "2408304db471ddf934056a9c6cdf98a51177085509ae95b0c78adfe6681c765a",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/BaseCharacterController.luau",
+      "size": 1039
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.ClickToMoveDisplay",
+      "name": "ClickToMoveDisplay",
+      "className": "ModuleScript",
+      "hash": "3364b358f6156ec4257d47804b7c2804c7c507a665113e9ea1e12678a76ce026",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/ClickToMoveDisplay.luau",
+      "size": 15800
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.DynamicThumbstick",
+      "name": "DynamicThumbstick",
+      "className": "ModuleScript",
+      "hash": "59cea804f68286697235dd3bedcde39e6321a395c0f4803920f61494039259a9",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/DynamicThumbstick.luau",
+      "size": 22664
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.Keyboard",
+      "name": "Keyboard",
+      "className": "ModuleScript",
+      "hash": "351a7d889e9d36ceccfd9f012701f3de9e4b69735fefbb393b79d593a2484a41",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/Keyboard.luau",
+      "size": 5855
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.VRNavigation",
+      "name": "VRNavigation",
+      "className": "ModuleScript",
+      "hash": "64ccf68387b0ed89d3d3e478efb026646c9b215454f2efd5641571c1c3505f6c",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/VRNavigation.luau",
+      "size": 16772
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.TouchThumbstick",
+      "name": "TouchThumbstick",
+      "className": "ModuleScript",
+      "hash": "143d833b5017faef53a451a7b23cc518fca2af5faa143bc16f29ecfbe019362d",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/TouchThumbstick.luau",
+      "size": 8293
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.ControlModule.ClickToMoveController",
+      "name": "ClickToMoveController",
+      "className": "ModuleScript",
+      "hash": "0ca3a47d4397de026657d64388c1049d7fbb0955b6cc7287e74b6cf934c790fb",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/ControlModule/ClickToMoveController.luau",
+      "size": 49433
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule",
+      "name": "CameraModule",
+      "className": "ModuleScript",
+      "hash": "8c452848662cc1f1c4ade9bf2cf8b9e5f9dc9d60726f9e9b3f7d6f0b287eafc4",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule.luau",
+      "size": 20731
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.LegacyCamera",
+      "name": "LegacyCamera",
+      "className": "ModuleScript",
+      "hash": "ab895bf5bee8a1d8c535432159ce1f90961df0cb732bca9ac16605b9d470479c",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/LegacyCamera.luau",
+      "size": 3672
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.VRBaseCamera",
+      "name": "VRBaseCamera",
+      "className": "ModuleScript",
+      "hash": "5d67085d8e2bc8c4ec96823081b2f46f895c9d7fa3fae2ed795f21caf0828d06",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/VRBaseCamera.luau",
+      "size": 12278
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.CameraToggleStateController",
+      "name": "CameraToggleStateController",
+      "className": "ModuleScript",
+      "hash": "e1f56072850849ba7a89ba3aeba2813ecceaf98ab638feb1bc507d6ad609bf43",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/CameraToggleStateController.luau",
+      "size": 2687
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.OrbitalCamera",
+      "name": "OrbitalCamera",
+      "className": "ModuleScript",
+      "hash": "f6278c05c2087aeb42d69641221f29475b197d033bd12322fc02e2d54753485c",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/OrbitalCamera.luau",
+      "size": 9924
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.VehicleCamera",
+      "name": "VehicleCamera",
+      "className": "ModuleScript",
+      "hash": "7865686badfa265f6ea3e9b3ec56174852dea3dc6b49f49a036fe769faae2b6d",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/VehicleCamera.luau",
+      "size": 6385
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.VehicleCamera.VehicleCameraCore",
+      "name": "VehicleCameraCore",
+      "className": "ModuleScript",
+      "hash": "7c1a7e9c64d08b11d216c22ec8b01884fe3b4c47bc1e677a5bde1ada40bd9da9",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/VehicleCamera/VehicleCameraCore.luau",
+      "size": 5165
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.VehicleCamera.VehicleCameraConfig",
+      "name": "VehicleCameraConfig",
+      "className": "ModuleScript",
+      "hash": "f80913c1f39238fe1d3c476b5c036481acf8e1d453b6f099a6155443278d0920",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/VehicleCamera/VehicleCameraConfig.luau",
+      "size": 624
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.VRVehicleCamera",
+      "name": "VRVehicleCamera",
+      "className": "ModuleScript",
+      "hash": "16f37a345ee942779cef4a7dd5ce1505c960e297f394aa0a15163b73f27f7c1d",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/VRVehicleCamera.luau",
+      "size": 14202
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.ClassicCamera",
+      "name": "ClassicCamera",
+      "className": "ModuleScript",
+      "hash": "7524cb0d222270531f0e8999b346a27e1b5bdc6c76a550a297da41ebd80e6559",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/ClassicCamera.luau",
+      "size": 7545
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.CameraUtils",
+      "name": "CameraUtils",
+      "className": "ModuleScript",
+      "hash": "d6b2654ac6c290d57e2ce436a83fb9273633e943f9db59c5daa513fad1599fbc",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/CameraUtils.luau",
+      "size": 8491
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.ZoomController",
+      "name": "ZoomController",
+      "className": "ModuleScript",
+      "hash": "6bcf7ad6d12ccb76f5c1ad1de39493026ef8ee1cf175f16139226b8b52bce4f5",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/ZoomController.luau",
+      "size": 3295
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.ZoomController.Popper",
+      "name": "Popper",
+      "className": "ModuleScript",
+      "hash": "3b28df5e1972d92656ba3ca6f0f94333e65b11bdd7f962ec0892aa07f64d8679",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/ZoomController/Popper.luau",
+      "size": 15382
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.TransparencyController",
+      "name": "TransparencyController",
+      "className": "ModuleScript",
+      "hash": "886e118d3754722dcc6808d93fda22f2883551a800caff2398c6b1e1ebd756f8",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/TransparencyController.luau",
+      "size": 7200
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.CameraUI",
+      "name": "CameraUI",
+      "className": "ModuleScript",
+      "hash": "05868764db7833cb3263142b499259a2ca8c67753158add4a70d8cbd088e0304",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/CameraUI.luau",
+      "size": 749
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.CameraInput",
+      "name": "CameraInput",
+      "className": "ModuleScript",
+      "hash": "375e073d9ed4178503b595301c7e18c6cc070e40fa2c80da5527514a0dac6907",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/CameraInput.luau",
+      "size": 13975
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.MouseLockController",
+      "name": "MouseLockController",
+      "className": "ModuleScript",
+      "hash": "590712683410c33328c313f7facd94115abe31e11c3b4624251f78aff942e5f7",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/MouseLockController.luau",
+      "size": 6549
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.BaseCamera",
+      "name": "BaseCamera",
+      "className": "ModuleScript",
+      "hash": "55cd4a09fe21f3d946462c93f06179e4dbc7355d318386755562980a2d70a1be",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/BaseCamera.luau",
+      "size": 22505
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.VRCamera",
+      "name": "VRCamera",
+      "className": "ModuleScript",
+      "hash": "c7e2ace1588c7e6268a6e2fa9276ef31b60fe213c553c9f2d0f5de8dcae1e7da",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/VRCamera.luau",
+      "size": 12403
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.BaseOcclusion",
+      "name": "BaseOcclusion",
+      "className": "ModuleScript",
+      "hash": "3b0423efb9a4829bb8cc71f8c75f84dcb7b86dc00c07edb3aef91df30fe64753",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/BaseOcclusion.luau",
+      "size": 935
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.Invisicam",
+      "name": "Invisicam",
+      "className": "ModuleScript",
+      "hash": "2347aa1516c7097079efe65a1db29b3cd15c480679f653d66eb35b01f4fbebd4",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/Invisicam.luau",
+      "size": 17651
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CameraModule.Poppercam",
+      "name": "Poppercam",
+      "className": "ModuleScript",
+      "hash": "36787a1d704d61d041ed5650ed730efa50db02c0d26edebb46c7de9699c0b388",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CameraModule/Poppercam.luau",
+      "size": 3200
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CommonUtils.ConnectionUtil",
+      "name": "ConnectionUtil",
+      "className": "ModuleScript",
+      "hash": "37a2acacf86167c5be813954ce9983c5445e5476abf0b15c248a3497ac7dc897",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CommonUtils/ConnectionUtil.luau",
+      "size": 964
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CommonUtils.ConnectionUtil.spec",
+      "name": "ConnectionUtil.spec",
+      "className": "ModuleScript",
+      "hash": "65fd03f5f0bd5a82ab36621c98e44dd89274ac6a8a3e080ab2d5f276ea7dbdda",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CommonUtils/ConnectionUtil.spec.luau",
+      "size": 3451
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CommonUtils.CameraWrapper.spec",
+      "name": "CameraWrapper.spec",
+      "className": "ModuleScript",
+      "hash": "7e80d9c67bdcc3dfbe03d95bddbe6d5989a917d7df7668bc573a5d856dd61f03",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CommonUtils/CameraWrapper.spec.luau",
+      "size": 1531
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CommonUtils.CameraWrapper",
+      "name": "CameraWrapper",
+      "className": "ModuleScript",
+      "hash": "66ddbf481fd7bbfc90d55cfe7f0cc068f1972936b415ad381c211cdd72546689",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CommonUtils/CameraWrapper.luau",
+      "size": 1862
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CommonUtils.CharacterUtil",
+      "name": "CharacterUtil",
+      "className": "ModuleScript",
+      "hash": "012c97d77f94d224cde6b5ff6e253031e24bc89141593c61d3899fe7217a129a",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CommonUtils/CharacterUtil.luau",
+      "size": 3165
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerModule.CommonUtils.FlagUtil",
+      "name": "FlagUtil",
+      "className": "ModuleScript",
+      "hash": "c9a616d4d1eef3145b709cef07bd31f294313cec8fba6641dae08006fdc596c4",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerModule/CommonUtils/FlagUtil.luau",
+      "size": 321
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.PlayerScriptsLoader",
+      "name": "PlayerScriptsLoader",
+      "className": "LocalScript",
+      "hash": "705ad4de0ba0fefbf156f1defc10c58b7eb3d0514d099d9adda32ee7d5f18e02",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/PlayerScriptsLoader.luau",
+      "size": 96
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.RbxCharacterSounds",
+      "name": "RbxCharacterSounds",
+      "className": "LocalScript",
+      "hash": "43efdfca4dd17f43a1300859f5fb8620703300739541b722ab69680c0dfcf315",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/RbxCharacterSounds.luau",
+      "size": 16052
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.RbxCharacterSounds.AtomicBinding",
+      "name": "AtomicBinding",
+      "className": "ModuleScript",
+      "hash": "b5386e145a583928c04cad2aacd538a5c0ccf0add35cc429f8617351abd01190",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/RbxCharacterSounds/AtomicBinding.luau",
+      "size": 7235
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Gameplay.ClientGameplay",
+      "name": "ClientGameplay",
+      "className": "LocalScript",
+      "hash": "3df1cf2fb5603b06be88dcbdf83152fd005ffbe9869e956053bb4836cd2b89da",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Gameplay/ClientGameplay.luau",
+      "size": 250121
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Gameplay.ModeMenuClient",
+      "name": "ModeMenuClient",
+      "className": "LocalScript",
+      "hash": "0a541eaa3492010e8a8fbaec9b2cedd4d2b3c99e96e0dcbdf107cede3a6a2844",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Gameplay/ModeMenuClient.luau",
+      "size": 172327
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Gameplay.HiscoresClient",
+      "name": "HiscoresClient",
+      "className": "LocalScript",
+      "hash": "666d29d0780dc294ac9f03be0e5153579d7d05895fd734e4adc1428f9435c703",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Gameplay/HiscoresClient.luau",
+      "size": 69668
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Gameplay.ControlSettingsClient",
+      "name": "ControlSettingsClient",
+      "className": "LocalScript",
+      "hash": "2c55e0d7e1e4a046e7e6da87fa36d7f61a83e91c2bf92a0675c12c809f614720",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Gameplay/ControlSettingsClient.luau",
+      "size": 146604
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Gameplay.MinimapClient",
+      "name": "MinimapClient",
+      "className": "LocalScript",
+      "hash": "8d736194131279e0c973da7cc72b9055438a28e81b3b9a8ea0c91054be154386",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Gameplay/MinimapClient.luau",
+      "size": 25850
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Gameplay.ClientPrediction",
+      "name": "ClientPrediction",
+      "className": "ModuleScript",
+      "hash": "296d51c80bdc87fa42a03a39938c5ced73ecb10b6cc916783748628842dab7fc",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Gameplay/ClientPrediction.luau",
+      "size": 4393
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Gameplay.ModeMenuFriendActions",
+      "name": "ModeMenuFriendActions",
+      "className": "ModuleScript",
+      "hash": "be10007b2609e17b573d610757abbc0c8947e99d7b01eb54b99c7030916c81fd",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Gameplay/ModeMenuFriendActions.luau",
+      "size": 6914
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.HUDController",
+      "name": "HUDController",
+      "className": "ModuleScript",
+      "hash": "340755a952639ddd1ca0e845f9086e2d9fdd248a24defe0239c01d24fd5d9ad2",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/HUDController.luau",
+      "size": 11073
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.TutorialController",
+      "name": "TutorialController",
+      "className": "ModuleScript",
+      "hash": "b0ec57c5f6b85b7f925a64b541144aa48e72dc08b96a80b48d09d961e93803a8",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/TutorialController.luau",
+      "size": 12846
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.LobbyController",
+      "name": "LobbyController",
+      "className": "ModuleScript",
+      "hash": "563a2e2669d4a4def0c3e989902ae9ce2940818f660f510d13c21a5af24250a3",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/LobbyController.luau",
+      "size": 214975
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.ChatLocal",
+      "name": "ChatLocal",
+      "className": "LocalScript",
+      "hash": "5dfb3aae665a8e670a15171a6e0cdb35c74f8cf701a3b2bea868b36238ee946d",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/ChatLocal.luau",
+      "size": 27502
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.DonateController",
+      "name": "DonateController",
+      "className": "ModuleScript",
+      "hash": "2d1b9f718551ede59f11119c3169eba3ccdcb09564bf81e8a4e7ae5dfbc16d7d",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/DonateController.luau",
+      "size": 20258
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.GeneratedGuiBootstrap",
+      "name": "GeneratedGuiBootstrap",
+      "className": "LocalScript",
+      "hash": "202422cfa71455c82526e9ce7d49b61e7d3facd6cf90217d6843639e2c189458",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/GeneratedGuiBootstrap.luau",
+      "size": 782
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.MassChatOffsetController",
+      "name": "MassChatOffsetController",
+      "className": "LocalScript",
+      "hash": "d2af91106b1500b968fe0c32cbadf6ab6ef52a9483b40dee042f16f30f6bfd33",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/MassChatOffsetController.luau",
+      "size": 1748
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.FriendInviteController",
+      "name": "FriendInviteController",
+      "className": "LocalScript",
+      "hash": "1c7ae825a91b0c70135dd0c818159f2db5489a29c4695b72486f0b98751dfd0f",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/FriendInviteController.luau",
+      "size": 7667
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.ClientIntegrityProbe",
+      "name": "ClientIntegrityProbe",
+      "className": "LocalScript",
+      "hash": "2ab33d1dd1795d6176ca7ed58d097815c563bd7e0e757843203317378d21861c",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/ClientIntegrityProbe.luau",
+      "size": 6766
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.AudioController",
+      "name": "AudioController",
+      "className": "LocalScript",
+      "hash": "0fd6d94abeabcfffc965e6c3e7dbbb87eecc0ac494548997ae18e21718089b74",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/AudioController.luau",
+      "size": 38104
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.AudioControllerV2",
+      "name": "AudioControllerV2",
+      "className": "LocalScript",
+      "hash": "f3c77896acc16d7237d9b760544fd8cabfb3557cf2bd578e73073e5d0851c74f",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/AudioControllerV2.luau",
+      "size": 100784
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.ForumClient",
+      "name": "ForumClient",
+      "className": "LocalScript",
+      "hash": "790c84ba3fb5c188674ff93fb6b3f776aac954e088e8f82ef88fcabfd7385cd2",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/ForumClient.luau",
+      "size": 22
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.PlayerProfilePopupClient",
+      "name": "PlayerProfilePopupClient",
+      "className": "LocalScript",
+      "hash": "83506a501ef30a78e122b8f4a5d995fdf2b142f41a4e9888938d67243e0cab7f",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/PlayerProfilePopupClient.luau",
+      "size": 13056
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.DisableDefaultPlayerBillboards",
+      "name": "DisableDefaultPlayerBillboards",
+      "className": "LocalScript",
+      "hash": "6ab6bc07e1f371473b6aff9e75364603a649916aa6f9b479fc1c24cbc1ff3689",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/DisableDefaultPlayerBillboards.luau",
+      "size": 1411
+    },
+    {
+      "rblxPath": "game.Players.9px9m20.PlayerScripts.Framework.TradeClient",
+      "name": "TradeClient",
+      "className": "LocalScript",
+      "hash": "4a3e2aff66d63349d5526a183e7b7c1ee7914a1032faa4646fddaf501ba8d524",
+      "fsPath": "Players/LocalPlayer/PlayerScripts/Framework/TradeClient.luau",
+      "size": 108193
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.LimitedLocal",
+      "name": "LimitedLocal",
+      "className": "LocalScript",
+      "hash": "016528e337367b66a1daaf79e08e718b18e4311d3d0fdbfc2d48d6691029b943",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/LimitedLocal.luau",
+      "size": 36767
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule",
+      "name": "PlayerModule",
+      "className": "ModuleScript",
+      "hash": "675ef998593ee90bb71dc56284d6ada0ccfc88e6f160dd7b23b2535f44c12d4b",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule.luau",
+      "size": 599
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule",
+      "name": "ControlModule",
+      "className": "ModuleScript",
+      "hash": "2b3598a4fa12f51ee63bc540b8bb58ed9c558798cd2809cd5390b2090726dfc3",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule.luau",
+      "size": 21672
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.TouchJump",
+      "name": "TouchJump",
+      "className": "ModuleScript",
+      "hash": "17327b2788e45e2644c2a0c2081a7216e83e6ad573a9c82f3f1dd8a1488b2c51",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/TouchJump.luau",
+      "size": 8134
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.PathDisplay",
+      "name": "PathDisplay",
+      "className": "ModuleScript",
+      "hash": "6b19fecd9b9127e9f80380900cadf6d06f3c5cad10e06bb58e332630d6755ab7",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/PathDisplay.luau",
+      "size": 3667
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.AvatarAbilitiesInterface",
+      "name": "AvatarAbilitiesInterface",
+      "className": "ModuleScript",
+      "hash": "b060fc77070f31547b75acc399cf6469d0921ac08388947def4e1d6fed614d1e",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/AvatarAbilitiesInterface.luau",
+      "size": 2433
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.VehicleController",
+      "name": "VehicleController",
+      "className": "ModuleScript",
+      "hash": "e9b30e6837d0d2b4fc352f364323b422e4d0e23c4a36e599f1fb21dfa280fba7",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/VehicleController.luau",
+      "size": 4940
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.Gamepad",
+      "name": "Gamepad",
+      "className": "ModuleScript",
+      "hash": "ef0c646612170563898e737cf74b1e10105bb84fb32189a519a0124dfdd81276",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/Gamepad.luau",
+      "size": 6190
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.BaseCharacterController",
+      "name": "BaseCharacterController",
+      "className": "ModuleScript",
+      "hash": "2408304db471ddf934056a9c6cdf98a51177085509ae95b0c78adfe6681c765a",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/BaseCharacterController.luau",
+      "size": 1039
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.ClickToMoveDisplay",
+      "name": "ClickToMoveDisplay",
+      "className": "ModuleScript",
+      "hash": "3364b358f6156ec4257d47804b7c2804c7c507a665113e9ea1e12678a76ce026",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/ClickToMoveDisplay.luau",
+      "size": 15800
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.DynamicThumbstick",
+      "name": "DynamicThumbstick",
+      "className": "ModuleScript",
+      "hash": "59cea804f68286697235dd3bedcde39e6321a395c0f4803920f61494039259a9",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/DynamicThumbstick.luau",
+      "size": 22664
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.Keyboard",
+      "name": "Keyboard",
+      "className": "ModuleScript",
+      "hash": "351a7d889e9d36ceccfd9f012701f3de9e4b69735fefbb393b79d593a2484a41",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/Keyboard.luau",
+      "size": 5855
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.VRNavigation",
+      "name": "VRNavigation",
+      "className": "ModuleScript",
+      "hash": "64ccf68387b0ed89d3d3e478efb026646c9b215454f2efd5641571c1c3505f6c",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/VRNavigation.luau",
+      "size": 16772
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.TouchThumbstick",
+      "name": "TouchThumbstick",
+      "className": "ModuleScript",
+      "hash": "143d833b5017faef53a451a7b23cc518fca2af5faa143bc16f29ecfbe019362d",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/TouchThumbstick.luau",
+      "size": 8293
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.ClickToMoveController",
+      "name": "ClickToMoveController",
+      "className": "ModuleScript",
+      "hash": "0ca3a47d4397de026657d64388c1049d7fbb0955b6cc7287e74b6cf934c790fb",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/ClickToMoveController.luau",
+      "size": 49433
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule",
+      "name": "CameraModule",
+      "className": "ModuleScript",
+      "hash": "8c452848662cc1f1c4ade9bf2cf8b9e5f9dc9d60726f9e9b3f7d6f0b287eafc4",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule.luau",
+      "size": 20731
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.LegacyCamera",
+      "name": "LegacyCamera",
+      "className": "ModuleScript",
+      "hash": "ab895bf5bee8a1d8c535432159ce1f90961df0cb732bca9ac16605b9d470479c",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/LegacyCamera.luau",
+      "size": 3672
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VRBaseCamera",
+      "name": "VRBaseCamera",
+      "className": "ModuleScript",
+      "hash": "5d67085d8e2bc8c4ec96823081b2f46f895c9d7fa3fae2ed795f21caf0828d06",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VRBaseCamera.luau",
+      "size": 12278
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.CameraToggleStateController",
+      "name": "CameraToggleStateController",
+      "className": "ModuleScript",
+      "hash": "e1f56072850849ba7a89ba3aeba2813ecceaf98ab638feb1bc507d6ad609bf43",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/CameraToggleStateController.luau",
+      "size": 2687
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.OrbitalCamera",
+      "name": "OrbitalCamera",
+      "className": "ModuleScript",
+      "hash": "f6278c05c2087aeb42d69641221f29475b197d033bd12322fc02e2d54753485c",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/OrbitalCamera.luau",
+      "size": 9924
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VehicleCamera",
+      "name": "VehicleCamera",
+      "className": "ModuleScript",
+      "hash": "7865686badfa265f6ea3e9b3ec56174852dea3dc6b49f49a036fe769faae2b6d",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VehicleCamera.luau",
+      "size": 6385
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VehicleCamera.VehicleCameraCore",
+      "name": "VehicleCameraCore",
+      "className": "ModuleScript",
+      "hash": "7c1a7e9c64d08b11d216c22ec8b01884fe3b4c47bc1e677a5bde1ada40bd9da9",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VehicleCamera/VehicleCameraCore.luau",
+      "size": 5165
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VehicleCamera.VehicleCameraConfig",
+      "name": "VehicleCameraConfig",
+      "className": "ModuleScript",
+      "hash": "f80913c1f39238fe1d3c476b5c036481acf8e1d453b6f099a6155443278d0920",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VehicleCamera/VehicleCameraConfig.luau",
+      "size": 624
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VRVehicleCamera",
+      "name": "VRVehicleCamera",
+      "className": "ModuleScript",
+      "hash": "16f37a345ee942779cef4a7dd5ce1505c960e297f394aa0a15163b73f27f7c1d",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VRVehicleCamera.luau",
+      "size": 14202
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.ClassicCamera",
+      "name": "ClassicCamera",
+      "className": "ModuleScript",
+      "hash": "7524cb0d222270531f0e8999b346a27e1b5bdc6c76a550a297da41ebd80e6559",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/ClassicCamera.luau",
+      "size": 7545
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.CameraUtils",
+      "name": "CameraUtils",
+      "className": "ModuleScript",
+      "hash": "d6b2654ac6c290d57e2ce436a83fb9273633e943f9db59c5daa513fad1599fbc",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/CameraUtils.luau",
+      "size": 8491
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.ZoomController",
+      "name": "ZoomController",
+      "className": "ModuleScript",
+      "hash": "6bcf7ad6d12ccb76f5c1ad1de39493026ef8ee1cf175f16139226b8b52bce4f5",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/ZoomController.luau",
+      "size": 3295
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.ZoomController.Popper",
+      "name": "Popper",
+      "className": "ModuleScript",
+      "hash": "dbc31f9263dbd08c311a74892c1388d5835718556b58b6cdb56823c9be654ea8",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/ZoomController/Popper.luau",
+      "size": 15382
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.TransparencyController",
+      "name": "TransparencyController",
+      "className": "ModuleScript",
+      "hash": "886e118d3754722dcc6808d93fda22f2883551a800caff2398c6b1e1ebd756f8",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/TransparencyController.luau",
+      "size": 7200
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.CameraUI",
+      "name": "CameraUI",
+      "className": "ModuleScript",
+      "hash": "05868764db7833cb3263142b499259a2ca8c67753158add4a70d8cbd088e0304",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/CameraUI.luau",
+      "size": 749
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.CameraInput",
+      "name": "CameraInput",
+      "className": "ModuleScript",
+      "hash": "375e073d9ed4178503b595301c7e18c6cc070e40fa2c80da5527514a0dac6907",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/CameraInput.luau",
+      "size": 13975
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.MouseLockController",
+      "name": "MouseLockController",
+      "className": "ModuleScript",
+      "hash": "590712683410c33328c313f7facd94115abe31e11c3b4624251f78aff942e5f7",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/MouseLockController.luau",
+      "size": 6549
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.BaseCamera",
+      "name": "BaseCamera",
+      "className": "ModuleScript",
+      "hash": "55cd4a09fe21f3d946462c93f06179e4dbc7355d318386755562980a2d70a1be",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/BaseCamera.luau",
+      "size": 22505
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VRCamera",
+      "name": "VRCamera",
+      "className": "ModuleScript",
+      "hash": "c7e2ace1588c7e6268a6e2fa9276ef31b60fe213c553c9f2d0f5de8dcae1e7da",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VRCamera.luau",
+      "size": 12403
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.BaseOcclusion",
+      "name": "BaseOcclusion",
+      "className": "ModuleScript",
+      "hash": "3b0423efb9a4829bb8cc71f8c75f84dcb7b86dc00c07edb3aef91df30fe64753",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/BaseOcclusion.luau",
+      "size": 935
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.Invisicam",
+      "name": "Invisicam",
+      "className": "ModuleScript",
+      "hash": "2347aa1516c7097079efe65a1db29b3cd15c480679f653d66eb35b01f4fbebd4",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/Invisicam.luau",
+      "size": 17651
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.Poppercam",
+      "name": "Poppercam",
+      "className": "ModuleScript",
+      "hash": "36787a1d704d61d041ed5650ed730efa50db02c0d26edebb46c7de9699c0b388",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/Poppercam.luau",
+      "size": 3200
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CommonUtils.ConnectionUtil",
+      "name": "ConnectionUtil",
+      "className": "ModuleScript",
+      "hash": "37a2acacf86167c5be813954ce9983c5445e5476abf0b15c248a3497ac7dc897",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CommonUtils/ConnectionUtil.luau",
+      "size": 964
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CommonUtils.ConnectionUtil.spec",
+      "name": "ConnectionUtil.spec",
+      "className": "ModuleScript",
+      "hash": "65fd03f5f0bd5a82ab36621c98e44dd89274ac6a8a3e080ab2d5f276ea7dbdda",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CommonUtils/ConnectionUtil.spec.luau",
+      "size": 3451
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CommonUtils.CameraWrapper.spec",
+      "name": "CameraWrapper.spec",
+      "className": "ModuleScript",
+      "hash": "7e80d9c67bdcc3dfbe03d95bddbe6d5989a917d7df7668bc573a5d856dd61f03",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CommonUtils/CameraWrapper.spec.luau",
+      "size": 1531
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CommonUtils.CameraWrapper",
+      "name": "CameraWrapper",
+      "className": "ModuleScript",
+      "hash": "66ddbf481fd7bbfc90d55cfe7f0cc068f1972936b415ad381c211cdd72546689",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CommonUtils/CameraWrapper.luau",
+      "size": 1862
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CommonUtils.CharacterUtil",
+      "name": "CharacterUtil",
+      "className": "ModuleScript",
+      "hash": "012c97d77f94d224cde6b5ff6e253031e24bc89141593c61d3899fe7217a129a",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CommonUtils/CharacterUtil.luau",
+      "size": 3165
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerModule.CommonUtils.FlagUtil",
+      "name": "FlagUtil",
+      "className": "ModuleScript",
+      "hash": "c9a616d4d1eef3145b709cef07bd31f294313cec8fba6641dae08006fdc596c4",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerModule/CommonUtils/FlagUtil.luau",
+      "size": 321
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.PlayerScriptsLoader",
+      "name": "PlayerScriptsLoader",
+      "className": "LocalScript",
+      "hash": "705ad4de0ba0fefbf156f1defc10c58b7eb3d0514d099d9adda32ee7d5f18e02",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/PlayerScriptsLoader.luau",
+      "size": 96
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.RbxCharacterSounds",
+      "name": "RbxCharacterSounds",
+      "className": "LocalScript",
+      "hash": "43efdfca4dd17f43a1300859f5fb8620703300739541b722ab69680c0dfcf315",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/RbxCharacterSounds.luau",
+      "size": 16052
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.RbxCharacterSounds.AtomicBinding",
+      "name": "AtomicBinding",
+      "className": "ModuleScript",
+      "hash": "b5386e145a583928c04cad2aacd538a5c0ccf0add35cc429f8617351abd01190",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/RbxCharacterSounds/AtomicBinding.luau",
+      "size": 7235
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Gameplay.ClientGameplay",
+      "name": "ClientGameplay",
+      "className": "LocalScript",
+      "hash": "d6aa7ae2cea2342f41e910922f1ade78293932d0d4cc958819a939efab9d9161",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Gameplay/ClientGameplay.luau",
+      "size": 250121
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Gameplay.ModeMenuClient",
+      "name": "ModeMenuClient",
+      "className": "LocalScript",
+      "hash": "49080ff71330507b0de042566983ec8815a2064918b1f53e8af8563960fd2c67",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Gameplay/ModeMenuClient.luau",
+      "size": 172327
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Gameplay.HiscoresClient",
+      "name": "HiscoresClient",
+      "className": "LocalScript",
+      "hash": "666d29d0780dc294ac9f03be0e5153579d7d05895fd734e4adc1428f9435c703",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Gameplay/HiscoresClient.luau",
+      "size": 69668
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Gameplay.ControlSettingsClient",
+      "name": "ControlSettingsClient",
+      "className": "LocalScript",
+      "hash": "2c55e0d7e1e4a046e7e6da87fa36d7f61a83e91c2bf92a0675c12c809f614720",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Gameplay/ControlSettingsClient.luau",
+      "size": 146604
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Gameplay.MinimapClient",
+      "name": "MinimapClient",
+      "className": "LocalScript",
+      "hash": "8d736194131279e0c973da7cc72b9055438a28e81b3b9a8ea0c91054be154386",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Gameplay/MinimapClient.luau",
+      "size": 25850
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Gameplay.ClientPrediction",
+      "name": "ClientPrediction",
+      "className": "ModuleScript",
+      "hash": "296d51c80bdc87fa42a03a39938c5ced73ecb10b6cc916783748628842dab7fc",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Gameplay/ClientPrediction.luau",
+      "size": 4393
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Gameplay.ModeMenuFriendActions",
+      "name": "ModeMenuFriendActions",
+      "className": "ModuleScript",
+      "hash": "be10007b2609e17b573d610757abbc0c8947e99d7b01eb54b99c7030916c81fd",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Gameplay/ModeMenuFriendActions.luau",
+      "size": 6914
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.HUDController",
+      "name": "HUDController",
+      "className": "ModuleScript",
+      "hash": "340755a952639ddd1ca0e845f9086e2d9fdd248a24defe0239c01d24fd5d9ad2",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/HUDController.luau",
+      "size": 11073
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.TutorialController",
+      "name": "TutorialController",
+      "className": "ModuleScript",
+      "hash": "b0ec57c5f6b85b7f925a64b541144aa48e72dc08b96a80b48d09d961e93803a8",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/TutorialController.luau",
+      "size": 12846
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.LobbyController",
+      "name": "LobbyController",
+      "className": "ModuleScript",
+      "hash": "25843a6a0c88795797677aa30b241c4d52dec981c719997339b9d62abb9bb155",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/LobbyController.luau",
+      "size": 214975
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.ChatLocal",
+      "name": "ChatLocal",
+      "className": "LocalScript",
+      "hash": "5dfb3aae665a8e670a15171a6e0cdb35c74f8cf701a3b2bea868b36238ee946d",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/ChatLocal.luau",
+      "size": 27502
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.DonateController",
+      "name": "DonateController",
+      "className": "ModuleScript",
+      "hash": "2d1b9f718551ede59f11119c3169eba3ccdcb09564bf81e8a4e7ae5dfbc16d7d",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/DonateController.luau",
+      "size": 20258
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.GeneratedGuiBootstrap",
+      "name": "GeneratedGuiBootstrap",
+      "className": "LocalScript",
+      "hash": "202422cfa71455c82526e9ce7d49b61e7d3facd6cf90217d6843639e2c189458",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/GeneratedGuiBootstrap.luau",
+      "size": 782
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.MassChatOffsetController",
+      "name": "MassChatOffsetController",
+      "className": "LocalScript",
+      "hash": "d2af91106b1500b968fe0c32cbadf6ab6ef52a9483b40dee042f16f30f6bfd33",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/MassChatOffsetController.luau",
+      "size": 1748
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.FriendInviteController",
+      "name": "FriendInviteController",
+      "className": "LocalScript",
+      "hash": "1c7ae825a91b0c70135dd0c818159f2db5489a29c4695b72486f0b98751dfd0f",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/FriendInviteController.luau",
+      "size": 7667
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.ClientIntegrityProbe",
+      "name": "ClientIntegrityProbe",
+      "className": "LocalScript",
+      "hash": "2ab33d1dd1795d6176ca7ed58d097815c563bd7e0e757843203317378d21861c",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/ClientIntegrityProbe.luau",
+      "size": 6766
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.AudioController",
+      "name": "AudioController",
+      "className": "LocalScript",
+      "hash": "0fd6d94abeabcfffc965e6c3e7dbbb87eecc0ac494548997ae18e21718089b74",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/AudioController.luau",
+      "size": 38104
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.AudioControllerV2",
+      "name": "AudioControllerV2",
+      "className": "LocalScript",
+      "hash": "f3c77896acc16d7237d9b760544fd8cabfb3557cf2bd578e73073e5d0851c74f",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/AudioControllerV2.luau",
+      "size": 100784
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.ForumClient",
+      "name": "ForumClient",
+      "className": "LocalScript",
+      "hash": "790c84ba3fb5c188674ff93fb6b3f776aac954e088e8f82ef88fcabfd7385cd2",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/ForumClient.luau",
+      "size": 22
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.PlayerProfilePopupClient",
+      "name": "PlayerProfilePopupClient",
+      "className": "LocalScript",
+      "hash": "83506a501ef30a78e122b8f4a5d995fdf2b142f41a4e9888938d67243e0cab7f",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/PlayerProfilePopupClient.luau",
+      "size": 13056
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.DisableDefaultPlayerBillboards",
+      "name": "DisableDefaultPlayerBillboards",
+      "className": "LocalScript",
+      "hash": "6ab6bc07e1f371473b6aff9e75364603a649916aa6f9b479fc1c24cbc1ff3689",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/DisableDefaultPlayerBillboards.luau",
+      "size": 1411
+    },
+    {
+      "rblxPath": "game.StarterPlayer.StarterPlayerScripts.Framework.TradeClient",
+      "name": "TradeClient",
+      "className": "LocalScript",
+      "hash": "c1cc7068096e76e5718b5f8082ef91be162666718c564d242720d3e16f47992f",
+      "fsPath": "StarterPlayer/StarterPlayerScripts/Framework/TradeClient.luau",
+      "size": 108193
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.EconomyService",
+      "name": "EconomyService",
+      "className": "ModuleScript",
+      "hash": "992c115fbdfbeb99e98f8cdb8efc3e4e4cb6ea091cdfe3b2d08848c5be0490bf",
+      "fsPath": "ReplicatedStorage/Framework/EconomyService.luau",
+      "size": 939
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.LootService",
+      "name": "LootService",
+      "className": "ModuleScript",
+      "hash": "000443142c80963af3c99d1bbe73239484b73723fc0b4c44465c3b2c0c059110",
+      "fsPath": "ReplicatedStorage/Framework/LootService.luau",
+      "size": 1598
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GameDatabase",
+      "name": "GameDatabase",
+      "className": "ModuleScript",
+      "hash": "dc47b5201c63a796749b456d3998eef0ad1a8ab637b304c5513087bfb2018c75",
+      "fsPath": "ReplicatedStorage/Framework/GameDatabase.luau",
+      "size": 32397
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.PromptHandler",
+      "name": "PromptHandler",
+      "className": "ModuleScript",
+      "hash": "16c7617297794a092546a424bfff15834a87e7b315a3865a2eed7a9723f8c8ba",
+      "fsPath": "ReplicatedStorage/Framework/PromptHandler.luau",
+      "size": 11487
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.LevelService",
+      "name": "LevelService",
+      "className": "ModuleScript",
+      "hash": "e93a8c53bf18cf48c872ec14004a33670949318209ec0ab62f5b701c0be86eb9",
+      "fsPath": "ReplicatedStorage/Framework/LevelService.luau",
+      "size": 1543
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.DonationConfig",
+      "name": "DonationConfig",
+      "className": "ModuleScript",
+      "hash": "d776c020371e09b2ad17a570d0767b007e6f15d4c09e2b2b8205e30965326043",
+      "fsPath": "ReplicatedStorage/Framework/DonationConfig.luau",
+      "size": 5627
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.TotalStatsCalculator",
+      "name": "TotalStatsCalculator",
+      "className": "ModuleScript",
+      "hash": "dda75d20219d2dca72d153e3d637d98858a0699318a5ca458e921e16a51badde",
+      "fsPath": "ReplicatedStorage/Framework/TotalStatsCalculator.luau",
+      "size": 2835
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.ClientPlayerState",
+      "name": "ClientPlayerState",
+      "className": "ModuleScript",
+      "hash": "7231810d495597abe6188f558899fd82a60b4320ca1ade9f6c432460d9f18e8e",
+      "fsPath": "ReplicatedStorage/Framework/ClientPlayerState.luau",
+      "size": 20661
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.NetworkManifest",
+      "name": "NetworkManifest",
+      "className": "ModuleScript",
+      "hash": "9a9f2171be225794027e713539fafa8def8f84d89b3a8210b2aef6c0abcfa223",
+      "fsPath": "ReplicatedStorage/Framework/NetworkManifest.luau",
+      "size": 3273
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.ColorPalettePicker",
+      "name": "ColorPalettePicker",
+      "className": "ModuleScript",
+      "hash": "e2cc8ac70c37b7f03591d67805adabb1048c1938d0296290f08aa073ee2a6be5",
+      "fsPath": "ReplicatedStorage/Framework/ColorPalettePicker.luau",
+      "size": 13320
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GradientEditor",
+      "name": "GradientEditor",
+      "className": "ModuleScript",
+      "hash": "889afc868d780d8c64dde891294b00a2de78a48daa0348087f5cd0f54108de18",
+      "fsPath": "ReplicatedStorage/Framework/GradientEditor.luau",
+      "size": 19824
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.Utility.String.NumberSuffixes",
+      "name": "NumberSuffixes",
+      "className": "ModuleScript",
+      "hash": "7f92c56f617a752e1ae25e5e68cd57786ea100dde68230cc3b9b9c866e4c7d2f",
+      "fsPath": "ReplicatedStorage/Framework/Utility/String/NumberSuffixes.luau",
+      "size": 7393
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.Utility.String.ChanceSuffixes",
+      "name": "ChanceSuffixes",
+      "className": "ModuleScript",
+      "hash": "0a81de6906eb41fb0b238878d8789805f697fd6b77717057e1f82aa49b5a0c18",
+      "fsPath": "ReplicatedStorage/Framework/Utility/String/ChanceSuffixes.luau",
+      "size": 1703
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.Utility.String.NumberAnimator",
+      "name": "NumberAnimator",
+      "className": "ModuleScript",
+      "hash": "973147a1aa0820b24607b85addd6af9ad9cf0bd5494f71afa6f48a579dc6656a",
+      "fsPath": "ReplicatedStorage/Framework/Utility/String/NumberAnimator.luau",
+      "size": 5188
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.Utility.Time.FPSTimer",
+      "name": "FPSTimer",
+      "className": "ModuleScript",
+      "hash": "487aa4048d7b17c54da190704c0a8d5b3b21aca5c723a730c3b15a04a2cb418b",
+      "fsPath": "ReplicatedStorage/Framework/Utility/Time/FPSTimer.luau",
+      "size": 630
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.Utility.Players.GetPlayerFromUserId",
+      "name": "GetPlayerFromUserId",
+      "className": "ModuleScript",
+      "hash": "0b8511b111bb380da052a36a9271df68902cc12c35e9880776f0cab33c1fe334",
+      "fsPath": "ReplicatedStorage/Framework/Utility/Players/GetPlayerFromUserId.luau",
+      "size": 442
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiFeatureFlags",
+      "name": "GuiFeatureFlags",
+      "className": "ModuleScript",
+      "hash": "d5adac36450174f19719d2930d2d73f2a1393ffc8686aeeeeba728c56be6e1d7",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiFeatureFlags.luau",
+      "size": 133
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GeneratedGuiRuntime",
+      "name": "GeneratedGuiRuntime",
+      "className": "ModuleScript",
+      "hash": "13b7d63c34846e59d7236e7f77dc8c771af99b21fc3ce3614ee282b22bc4635d",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GeneratedGuiRuntime.luau",
+      "size": 2577
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpec",
+      "name": "GuiSpec",
+      "className": "ModuleScript",
+      "hash": "f62ab5e4eb40d865c08a5c4cf6fb664c9a4cc975519195ea76b213086889af34",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpec.luau",
+      "size": 365
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Servers_1",
+      "name": "Gui_Servers_1",
+      "className": "ModuleScript",
+      "hash": "b5985ee082559fe7c847b110fa1d6e11db4291cdf03b67473bf1d6d818399198",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Servers_1.luau",
+      "size": 25436
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Menu_2",
+      "name": "Gui_Menu_2",
+      "className": "ModuleScript",
+      "hash": "8fb876251989edb51d2027a02ed316b0f9e72ffa118d1133acc0acd27e08d29c",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Menu_2.luau",
+      "size": 77309
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_UICorner_3",
+      "name": "Gui_Shop_UICorner_3",
+      "className": "ModuleScript",
+      "hash": "5cef335830d3ef0d99d36c404024413868eafa26645ceac4e97752688018c0e5",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_UICorner_3.luau",
+      "size": 166
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_ModDefult_4",
+      "name": "Gui_Shop_ModDefult_4",
+      "className": "ModuleScript",
+      "hash": "244c48fd1038dac7853860a0b4ba163f51f448ad46484f735cb2e25beba89c89",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_ModDefult_4.luau",
+      "size": 877
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_title_5",
+      "name": "Gui_Shop_title_5",
+      "className": "ModuleScript",
+      "hash": "74f9cb50bbdfd5c4f350f14eee85af5028a098142466760a2399ef25371b7a0a",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_title_5.luau",
+      "size": 1336
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_GoldValue_6",
+      "name": "Gui_Shop_GoldValue_6",
+      "className": "ModuleScript",
+      "hash": "4823020906f0e8d350519f91d070a94b417723ba0134fa9c8f73bdf9d33896fe",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_GoldValue_6.luau",
+      "size": 4259
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Skins_7",
+      "name": "Gui_Shop_Skins_7",
+      "className": "ModuleScript",
+      "hash": "c33ee6fddd096d0fc57ec4e39d843fca6313abe9294b021b37401313f4fe8a74",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Skins_7.luau",
+      "size": 21664
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Select_8",
+      "name": "Gui_Shop_Select_8",
+      "className": "ModuleScript",
+      "hash": "6feea190b65c328a32badfe703068ab654af265de134719060d73d7c60bff7ca",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Select_8.luau",
+      "size": 32761
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_UIAspectRatioConstraint_9",
+      "name": "Gui_Shop_UIAspectRatioConstraint_9",
+      "className": "ModuleScript",
+      "hash": "526a56ea0825fee892bf622e22aaf46e14ea1fba246f4b97eea2783579546087",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_UIAspectRatioConstraint_9.luau",
+      "size": 242
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Close_10",
+      "name": "Gui_Shop_Close_10",
+      "className": "ModuleScript",
+      "hash": "6e9303d6ee36ff836282b0bc2d92e6bdcf0c9b8d4ed5f7f3fd21013d3629a20d",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Close_10.luau",
+      "size": 1495
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Abilities_11",
+      "name": "Gui_Shop_Abilities_11",
+      "className": "ModuleScript",
+      "hash": "cd8157413e14afa11c37aa4268420de85cb227f65066e872ee3db6ad11208941",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Abilities_11.luau",
+      "size": 11843
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Accessories_12",
+      "name": "Gui_Shop_Accessories_12",
+      "className": "ModuleScript",
+      "hash": "16aa2ad9a81ce7da4a0b01418f011d4f138dbf315a64879a7392486822666b92",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Accessories_12.luau",
+      "size": 11840
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Cases_13",
+      "name": "Gui_Shop_Cases_13",
+      "className": "ModuleScript",
+      "hash": "b2a8c6769fa58fcb83a715852f22b830e75238ffb79554dc763238c570d1edda",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Cases_13.luau",
+      "size": 11834
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Bots_14",
+      "name": "Gui_Shop_Bots_14",
+      "className": "ModuleScript",
+      "hash": "36237a83101ce65cee26dfca0a4d19a8154a1808fa4063c3c92439f796ed2752",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Bots_14.luau",
+      "size": 11833
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_UISizeConstraint_15",
+      "name": "Gui_Shop_UISizeConstraint_15",
+      "className": "ModuleScript",
+      "hash": "c20f7f1aee90dbe130bedc9c095d864b0fd4c817ab7265e229da77fe53966ce0",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_UISizeConstraint_15.luau",
+      "size": 269
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_p_16",
+      "name": "Gui_Shop_p_16",
+      "className": "ModuleScript",
+      "hash": "08066878be20de55d567ace6754e09a2bd1ddc44b3aaa789b1c128d7154e94eb",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_p_16.luau",
+      "size": 628
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Title_17",
+      "name": "Gui_Shop_Title_17",
+      "className": "ModuleScript",
+      "hash": "60d5812505233f75911fe03711e8a29e4b76862a9c331fa56f90407a1d207bf4",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Title_17.luau",
+      "size": 945
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Gold_18",
+      "name": "Gui_Shop_Gold_18",
+      "className": "ModuleScript",
+      "hash": "bd69e51584bfb8fd5b0a61c2bbdbf3548c6d78a8e383258827ef1347a865bcc8",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Gold_18.luau",
+      "size": 187580
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_Avatar_19",
+      "name": "Gui_Shop_Avatar_19",
+      "className": "ModuleScript",
+      "hash": "69a42c08e6149a3c8fdcdb6ec4d0c647f8157e54646d75085780a9b7023f7aad",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_Avatar_19.luau",
+      "size": 1248
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_SelectColor_20",
+      "name": "Gui_Shop_SelectColor_20",
+      "className": "ModuleScript",
+      "hash": "a9ea06e2f1d4964f041aefb03078d65a5535693c9f5bc0cfcaed0549530790b0",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_SelectColor_20.luau",
+      "size": 1132
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Shop_21",
+      "name": "Gui_Shop_21",
+      "className": "ModuleScript",
+      "hash": "d425df2a61c0f76d58876819efef6b432c47d1b69d18ed1c3ae18a511eeb673a",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Shop_21.luau",
+      "size": 1489
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Trade_22",
+      "name": "Gui_Trade_22",
+      "className": "ModuleScript",
+      "hash": "48f7a3fc66dd517112d8745b2b88cf601facf02f144aa77bb71d4ec6d41bbacf",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Trade_22.luau",
+      "size": 14286
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_ActiveTradeSession_23",
+      "name": "Gui_ActiveTradeSession_23",
+      "className": "ModuleScript",
+      "hash": "ebc402d1c0a4314740a5506f2840cf7477a9f78c742017097172624be62b1309",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_ActiveTradeSession_23.luau",
+      "size": 35378
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_Abilities_24",
+      "name": "Gui_Abilities_24",
+      "className": "ModuleScript",
+      "hash": "2c8e78ca5f3ea631691700c04750928951ccd9887e089e33ba459175833fe0b8",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_Abilities_24.luau",
+      "size": 7773
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Gui_25",
+      "name": "Gui_25",
+      "className": "ModuleScript",
+      "hash": "8dbeb7a1f411bf98c48e9e63e3f664782f020d0557e02dc5b58ad4c851c27830",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Gui_25.luau",
+      "size": 597
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.MainScreenGui_26",
+      "name": "MainScreenGui_26",
+      "className": "ModuleScript",
+      "hash": "e4441f872517311fe685722175b94a23d39b8c975adb7f58896750bd74853f1b",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/MainScreenGui_26.luau",
+      "size": 19558
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.PopupGui_27",
+      "name": "PopupGui_27",
+      "className": "ModuleScript",
+      "hash": "469d8dfd1dcecaa6ffd39b295f958b32281f44389d0df9b6e480bb59ae98d62e",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/PopupGui_27.luau",
+      "size": 18287
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Framework.GeneratedUI.GuiSpecParts.Temp_28",
+      "name": "Temp_28",
+      "className": "ModuleScript",
+      "hash": "14e23a224beaf772f2c3e6cfef973ffe7c2baf94b02a2326fcd7789ee7457d78",
+      "fsPath": "ReplicatedStorage/Framework/GeneratedUI/GuiSpecParts/Temp_28.luau",
+      "size": 7156
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "a1933de44a0d853eaaf0a71c1a88ea7ba3e91dfef72b7bf14e2137b9083ca0bb",
+      "fsPath": "ReplicatedStorage/Gameplay/Config.luau",
+      "size": 2355
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.SharedGameplay",
+      "name": "SharedGameplay",
+      "className": "ModuleScript",
+      "hash": "ed10017a3cb1a3fd8782df7a48c5223a9cd3ae5f7bae9c95fa4ec6f0bb1c1537",
+      "fsPath": "ReplicatedStorage/Gameplay/SharedGameplay.luau",
+      "size": 5949
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Classic.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "4fbefd2adde56546e69fe217777378e58c9bf2b507188f2348f77318dba7998e",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Classic/Config.luau",
+      "size": 1113
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Classic.Hooks",
+      "name": "Hooks",
+      "className": "ModuleScript",
+      "hash": "bdba0629105e419541fcc3a0e5a38df40fec936e323f6521c03da472b091bc22",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Classic/Hooks.luau",
+      "size": 54
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Split64.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "2f7a38837c62440ddbbc42867336bc10d4e3da49782c62d3d8d2706e4a257429",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Split64/Config.luau",
+      "size": 849
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Split64.Hooks",
+      "name": "Hooks",
+      "className": "ModuleScript",
+      "hash": "bdba0629105e419541fcc3a0e5a38df40fec936e323f6521c03da472b091bc22",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Split64/Hooks.luau",
+      "size": 54
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.HeavyFeed.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "c7d6abce2cd25ffa4fd7f8039fa4a6c0f21a574875e270653fe421f43843e3ac",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/HeavyFeed/Config.luau",
+      "size": 646
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Team2v2.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "b9f31904fc36da1f2c9f209d77f938f9db3021a4e2f423024a56af65ff0ab8d5",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Team2v2/Config.luau",
+      "size": 1163
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Team3v3.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "97822f2e939f9bb41a6ea3cb02f3bb36c7990704ac49e370f447f0faaa3c394b",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Team3v3/Config.luau",
+      "size": 1165
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Duel1v1.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "a99c296ab247a4ed0af892593dee516e14f13a21a59cd63b6705a8067aa05191",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Duel1v1/Config.luau",
+      "size": 1024
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.FastMerge.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "7213e9df70fbf05c412a052a0825931ccb9dbba5686e410738f734f5d0fa8ef5",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/FastMerge/Config.luau",
+      "size": 589
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.FiveBots.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "3540449c8c8ff079e315661583b5fea557ab6daf5df01d235376095e99a390d5",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/FiveBots/Config.luau",
+      "size": 891
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.HungerGames.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "c8f4b59a9aad1979da9b03426b56a59dc6aff7b59c380556d6dd40798baeb901",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/HungerGames/Config.luau",
+      "size": 960
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.HungerGames.Hooks",
+      "name": "Hooks",
+      "className": "ModuleScript",
+      "hash": "bdba0629105e419541fcc3a0e5a38df40fec936e323f6521c03da472b091bc22",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/HungerGames/Hooks.luau",
+      "size": 54
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Teams.Hooks",
+      "name": "Hooks",
+      "className": "ModuleScript",
+      "hash": "bdba0629105e419541fcc3a0e5a38df40fec936e323f6521c03da472b091bc22",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Teams/Hooks.luau",
+      "size": 54
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Teams.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "3e74d690e0046dc73e0d87e32d8857787ed880baa63943b710dc202ec2b3566a",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Teams/Config.luau",
+      "size": 734
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.NoVirus.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "bce4623f10e94c90ec645b17a0a41a2228bcf7c40852e6200038eb7ce0303831",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/NoVirus/Config.luau",
+      "size": 530
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.NoVirus.Hooks",
+      "name": "Hooks",
+      "className": "ModuleScript",
+      "hash": "bdba0629105e419541fcc3a0e5a38df40fec936e323f6521c03da472b091bc22",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/NoVirus/Hooks.luau",
+      "size": 54
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Hardcore.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "090d7c7a29d58d2faf0bf0efbfb03d5c1c79d9153dd7ac023a2d94ecad5ff942",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Hardcore/Config.luau",
+      "size": 956
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Hardcore.Hooks",
+      "name": "Hooks",
+      "className": "ModuleScript",
+      "hash": "bdba0629105e419541fcc3a0e5a38df40fec936e323f6521c03da472b091bc22",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Hardcore/Hooks.luau",
+      "size": 54
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.MultiAccount.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "29adbc73bdd360942aab416614d496355c8c19dce55cb2cf94383eda8f1c63bd",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/MultiAccount/Config.luau",
+      "size": 627
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Teams4.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "04951485e115949124adf3536c0907e33427d50fd07a3891d3e344c0011225f9",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Teams4/Config.luau",
+      "size": 743
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Teams4.Hooks",
+      "name": "Hooks",
+      "className": "ModuleScript",
+      "hash": "bdba0629105e419541fcc3a0e5a38df40fec936e323f6521c03da472b091bc22",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Teams4/Hooks.luau",
+      "size": 54
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Teams16.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "801e96c60c132f278e554dc8f11cd31744b7b797658b83aa0eaae43d5948ccdf",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Teams16/Config.luau",
+      "size": 788
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.MegaFood.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "19cdb911f0187e59b4f35d2a48fb8a8e7046764452dc2a2162ed696cf4dc58c8",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/MegaFood/Config.luau",
+      "size": 581
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.MegaFood.Hooks",
+      "name": "Hooks",
+      "className": "ModuleScript",
+      "hash": "bdba0629105e419541fcc3a0e5a38df40fec936e323f6521c03da472b091bc22",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/MegaFood/Hooks.luau",
+      "size": 54
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Teams8.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "8c81f87d2a87efbfb7bbdc98c5b2aa4f920b6753603cb669d12b5903db73e96c",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Teams8/Config.luau",
+      "size": 754
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Teams1.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "904ba3f50b548618b87fb4ad01e6243b57df03994770b33847d31030e4eeb116",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Teams1/Config.luau",
+      "size": 721
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Team4v4.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "f0dec5a692ed5d68af0c4d296fbdbb8f7f0d20451857286ab16052c87beffd18",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Team4v4/Config.luau",
+      "size": 1164
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Split128.Config",
+      "name": "Config",
+      "className": "ModuleScript",
+      "hash": "dc6324fb2542236e9e84ecdd19926f9026eb995f167756c55268d3a18586b162",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Split128/Config.luau",
+      "size": 853
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Official.Split128.Hooks",
+      "name": "Hooks",
+      "className": "ModuleScript",
+      "hash": "bdba0629105e419541fcc3a0e5a38df40fec936e323f6521c03da472b091bc22",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Official/Split128/Hooks.luau",
+      "size": 54
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Modes.Custom.CustomConfigValidator",
+      "name": "CustomConfigValidator",
+      "className": "ModuleScript",
+      "hash": "826c7825311270bbd2c9c81d14f91f01afec5b1539461df0e6a6ac6ad2076ffb",
+      "fsPath": "ReplicatedStorage/Gameplay/Modes/Custom/CustomConfigValidator.luau",
+      "size": 83960
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Engine.ModeLoader",
+      "name": "ModeLoader",
+      "className": "ModuleScript",
+      "hash": "ee6c16f37abde7ae3925e44455c3019678c8fac940fdd066ed80c374e4f2450b",
+      "fsPath": "ReplicatedStorage/Gameplay/Engine/ModeLoader.luau",
+      "size": 3745
+    },
+    {
+      "rblxPath": "game.ReplicatedStorage.Gameplay.Engine.ModeFeatureFlags",
+      "name": "ModeFeatureFlags",
+      "className": "ModuleScript",
+      "hash": "a6e9c893459c2ae899c2b3f9c44b57522b8b4858a17cd2832047a674cb7f09cc",
+      "fsPath": "ReplicatedStorage/Gameplay/Engine/ModeFeatureFlags.luau",
+      "size": 192
+    }
+  ]
+}

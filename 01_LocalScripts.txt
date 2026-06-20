@@ -1,0 +1,42 @@
+LOCALSCRIPTS
+Game: Trade_Agaricio
+=========================================
+
+[1] game.Players.9px9m20.PlayerScripts.LimitedLocal -> Players/LocalPlayer/PlayerScripts/LimitedLocal.luau
+[44] game.Players.9px9m20.PlayerScripts.PlayerScriptsLoader -> Players/LocalPlayer/PlayerScripts/PlayerScriptsLoader.luau
+[45] game.Players.9px9m20.PlayerScripts.RbxCharacterSounds -> Players/LocalPlayer/PlayerScripts/RbxCharacterSounds.luau
+[47] game.Players.9px9m20.PlayerScripts.Gameplay.ClientGameplay -> Players/LocalPlayer/PlayerScripts/Gameplay/ClientGameplay.luau
+[48] game.Players.9px9m20.PlayerScripts.Gameplay.ModeMenuClient -> Players/LocalPlayer/PlayerScripts/Gameplay/ModeMenuClient.luau
+[49] game.Players.9px9m20.PlayerScripts.Gameplay.HiscoresClient -> Players/LocalPlayer/PlayerScripts/Gameplay/HiscoresClient.luau
+[50] game.Players.9px9m20.PlayerScripts.Gameplay.ControlSettingsClient -> Players/LocalPlayer/PlayerScripts/Gameplay/ControlSettingsClient.luau
+[51] game.Players.9px9m20.PlayerScripts.Gameplay.MinimapClient -> Players/LocalPlayer/PlayerScripts/Gameplay/MinimapClient.luau
+[57] game.Players.9px9m20.PlayerScripts.Framework.ChatLocal -> Players/LocalPlayer/PlayerScripts/Framework/ChatLocal.luau
+[59] game.Players.9px9m20.PlayerScripts.Framework.GeneratedGuiBootstrap -> Players/LocalPlayer/PlayerScripts/Framework/GeneratedGuiBootstrap.luau
+[60] game.Players.9px9m20.PlayerScripts.Framework.MassChatOffsetController -> Players/LocalPlayer/PlayerScripts/Framework/MassChatOffsetController.luau
+[61] game.Players.9px9m20.PlayerScripts.Framework.FriendInviteController -> Players/LocalPlayer/PlayerScripts/Framework/FriendInviteController.luau
+[62] game.Players.9px9m20.PlayerScripts.Framework.ClientIntegrityProbe -> Players/LocalPlayer/PlayerScripts/Framework/ClientIntegrityProbe.luau
+[63] game.Players.9px9m20.PlayerScripts.Framework.AudioController -> Players/LocalPlayer/PlayerScripts/Framework/AudioController.luau
+[64] game.Players.9px9m20.PlayerScripts.Framework.AudioControllerV2 -> Players/LocalPlayer/PlayerScripts/Framework/AudioControllerV2.luau
+[65] game.Players.9px9m20.PlayerScripts.Framework.ForumClient -> Players/LocalPlayer/PlayerScripts/Framework/ForumClient.luau
+[66] game.Players.9px9m20.PlayerScripts.Framework.PlayerProfilePopupClient -> Players/LocalPlayer/PlayerScripts/Framework/PlayerProfilePopupClient.luau
+[67] game.Players.9px9m20.PlayerScripts.Framework.DisableDefaultPlayerBillboards -> Players/LocalPlayer/PlayerScripts/Framework/DisableDefaultPlayerBillboards.luau
+[68] game.Players.9px9m20.PlayerScripts.Framework.TradeClient -> Players/LocalPlayer/PlayerScripts/Framework/TradeClient.luau
+[69] game.StarterPlayer.StarterPlayerScripts.LimitedLocal -> StarterPlayer/StarterPlayerScripts/LimitedLocal.luau
+[112] game.StarterPlayer.StarterPlayerScripts.PlayerScriptsLoader -> StarterPlayer/StarterPlayerScripts/PlayerScriptsLoader.luau
+[113] game.StarterPlayer.StarterPlayerScripts.RbxCharacterSounds -> StarterPlayer/StarterPlayerScripts/RbxCharacterSounds.luau
+[115] game.StarterPlayer.StarterPlayerScripts.Gameplay.ClientGameplay -> StarterPlayer/StarterPlayerScripts/Gameplay/ClientGameplay.luau
+[116] game.StarterPlayer.StarterPlayerScripts.Gameplay.ModeMenuClient -> StarterPlayer/StarterPlayerScripts/Gameplay/ModeMenuClient.luau
+[117] game.StarterPlayer.StarterPlayerScripts.Gameplay.HiscoresClient -> StarterPlayer/StarterPlayerScripts/Gameplay/HiscoresClient.luau
+[118] game.StarterPlayer.StarterPlayerScripts.Gameplay.ControlSettingsClient -> StarterPlayer/StarterPlayerScripts/Gameplay/ControlSettingsClient.luau
+[119] game.StarterPlayer.StarterPlayerScripts.Gameplay.MinimapClient -> StarterPlayer/StarterPlayerScripts/Gameplay/MinimapClient.luau
+[125] game.StarterPlayer.StarterPlayerScripts.Framework.ChatLocal -> StarterPlayer/StarterPlayerScripts/Framework/ChatLocal.luau
+[127] game.StarterPlayer.StarterPlayerScripts.Framework.GeneratedGuiBootstrap -> StarterPlayer/StarterPlayerScripts/Framework/GeneratedGuiBootstrap.luau
+[128] game.StarterPlayer.StarterPlayerScripts.Framework.MassChatOffsetController -> StarterPlayer/StarterPlayerScripts/Framework/MassChatOffsetController.luau
+[129] game.StarterPlayer.StarterPlayerScripts.Framework.FriendInviteController -> StarterPlayer/StarterPlayerScripts/Framework/FriendInviteController.luau
+[130] game.StarterPlayer.StarterPlayerScripts.Framework.ClientIntegrityProbe -> StarterPlayer/StarterPlayerScripts/Framework/ClientIntegrityProbe.luau
+[131] game.StarterPlayer.StarterPlayerScripts.Framework.AudioController -> StarterPlayer/StarterPlayerScripts/Framework/AudioController.luau
+[132] game.StarterPlayer.StarterPlayerScripts.Framework.AudioControllerV2 -> StarterPlayer/StarterPlayerScripts/Framework/AudioControllerV2.luau
+[133] game.StarterPlayer.StarterPlayerScripts.Framework.ForumClient -> StarterPlayer/StarterPlayerScripts/Framework/ForumClient.luau
+[134] game.StarterPlayer.StarterPlayerScripts.Framework.PlayerProfilePopupClient -> StarterPlayer/StarterPlayerScripts/Framework/PlayerProfilePopupClient.luau
+[135] game.StarterPlayer.StarterPlayerScripts.Framework.DisableDefaultPlayerBillboards -> StarterPlayer/StarterPlayerScripts/Framework/DisableDefaultPlayerBillboards.luau
+[136] game.StarterPlayer.StarterPlayerScripts.Framework.TradeClient -> StarterPlayer/StarterPlayerScripts/Framework/TradeClient.luau
